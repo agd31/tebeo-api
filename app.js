@@ -1,3 +1,4 @@
+require("dotenv").config()
 var mongoose = require('mongoose');
 var express = require('express');
 var path = require('path');
@@ -13,7 +14,7 @@ const session = require('./configs/session.config');
 const cors = require('./configs/cors.config');
 
 //const comicRouter = require('./routes/comic.routes');
-const authRouter = require('./routes/auth.routes');
+const authRouter = require('./routes/auth.route');
 
 var app = express();
 

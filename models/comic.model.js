@@ -10,12 +10,12 @@ const comicSchema = new mongoose.Schema({
     family:{
         type: [String],
         required: true,
-        enum: ['Americano', 'Manga', 'Europeo'] //Americano, manga, europeo
+        enum: ['Americano', 'Manga', 'Europeo']
     },
     tags:{
         type: [String],
         required: true,
-        enum: ['sports', 'racing', 'action', 'rpg']
+        enum: ['Accion', 'Artbook','Aventura','Belico','Ciencia ficcion','Comedia','Cotidiano','Drama','Espada y brujeria','Fantasia','Historico','Ciberpunk','Humor','Novela grafica','Misterio','Noir','Piratas','Romance','Space Opera','Steampunk','Superheroes','Suspense','Terror','Zombies']
     },
     visits:{
         type:Number

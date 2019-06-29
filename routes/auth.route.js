@@ -1,12 +1,13 @@
 var express = require('express');
 var router = express.Router();
 
-const secure = require('../middleware/secure.mid')
+const secure = require('../middlewares/secure.mid')
 const authController = require('../controllers/auth.controller');
 
 router.post('/register',authController.register)
-router.post('/authenticate',authController.authenticate)
+router.post('/login',authController.authenticate)
 router.post('/logout',secure.isAuthenticated,authController.logout)
+//router.post('/edit',authController.edit)
 
 //router.get('/getProfile/:id', auth.getProfile);
 

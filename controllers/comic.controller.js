@@ -1,14 +1,13 @@
-const Journey = require('../models/comic.model')
+const Comic = require('../models/comic.model')
 
 module.exports.create = (req,res,next) => {
 req.body.userID = req.user.id
-const journey = new Journey (req.body)
+const comic = new Comic (req.body)
 
-//no deberiamos comprabar si existe el user no?
 
-journey.save()
-  .then(journey => {
-    res.status(201).json(journey)
+comic.save()
+  .then(comic => {
+    res.status(201).json(comic)
   })
   .catch(next)
 }
