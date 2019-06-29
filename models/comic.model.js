@@ -1,37 +1,58 @@
-const mongoose = require('mongoose')
+const mongoose = require("mongoose");
 
-
-const comicSchema = new mongoose.Schema({
-    title:{
-        type: String,
-        unique:true,
-        required:true
-      },
-    family:{
-        type: [String],
-        required: true,
-        enum: ['Americano', 'Manga', 'Europeo']
+const comicSchema = new mongoose.Schema(
+  {
+    title: {
+      type: String,
+      unique: true,
+      required: true
     },
-    tags:{
-        type: [String],
-        required: true,
-        enum: ['Accion', 'Artbook','Aventura','Belico','Ciencia ficcion','Comedia','Cotidiano','Drama','Espada y brujeria','Fantasia','Historico','Ciberpunk','Humor','Novela grafica','Misterio','Noir','Piratas','Romance','Space Opera','Steampunk','Superheroes','Suspense','Terror','Zombies']
+    family: {
+      type: String,
+      required: true,
+      enum: ["Americano", "Manga", "Europeo"]
     },
-    visits:{
-        type:Number
+    tags: {
+      type: [String],
+      required: true,
+      enum: [
+        "Accion",
+        "Artbook",
+        "Aventura",
+        "Belico",
+        "Ciencia ficcion",
+        "Cotidiano",
+        "Drama",
+        "Espada y brujeria",
+        "Fantasia",
+        "Historico",
+        "Ciberpunk",
+        "Humor",
+        "Novela grafica",
+        "Misterio",
+        "Noir",
+        "Piratas",
+        "Romance",
+        "Space Opera",
+        "Steampunk",
+        "Superheroes",
+        "Suspense",
+        "Terror",
+        "Zombies"
+      ]
     },
-    image:{type:String},
-    finished:{type: Boolean},
-    adults:{type:Boolean},
-    buy:{type:String},
-    have:{type: Boolean},
-    want:{type: Boolean},
-    //date: { type: Date, default: Date.now },
-    
- 
-}, { timestamps: true })
+    description: { type: String },
+    imageURL: { type: String },
+    finished: { type: Boolean },
+    buyURL: { type: String },
+    rating: {
+      type: Number,
+      default: 0
+    }
+  },
+  { timestamps: true }
+);
 
-
-const Comic = mongoose.model('Journey', comicSchema)
+const Comic = mongoose.model("Comic", comicSchema);
 
 module.exports = Comic;

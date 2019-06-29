@@ -1,0 +1,154 @@
+[
+    {
+        "title": "El quijote",
+        "family": "Europeo",
+        "tags": [
+            "Aventura",
+            "Humor",
+            "Drama",
+            "Historico"
+        ],
+        "description": "El ingenioso hidalgo don Quijote de la Mancha narra las aventuras de Alonso Quijano, un hidalgo pobre que de tanto leer novelas de caballería acaba enloqueciendo y creyendo ser un caballero andante, nombrándose a sí mismo como don Quijote de la Mancha. Sus intenciones son ayudar a los pobres y desfavorecidos, y lograr el amor de la supuesta Dulcinea del Toboso, que es en realidad es una campesina llamada Aldonza Lorenzo. Decide nombrar a Sancho Panza, un empleado suyo, su escudero. Juntos viven muchas aventuras y tras ser vencido por el Caballero de la Blanca Luna se retira a su hogar, donde, tras adquirir de nuevo la cordura, fallece.",
+        "imageURL": "http://imag.lecturalia.com/img/libro/el-ingenioso-hidalgo-don-quijote-de-la-mancha-8152.jpg",
+        "finished": true,
+        "buyURL": "https://www.amazon.es/Don-Quijote-Mancha-R/dp/8466320407",
+        "rating": 4
+    },
+    {
+        "title": "Dragonball",
+        "family": "Manga",
+        "tags": [
+            "Aventura",
+            "Humor",
+            "Accion",
+            "Fantasia"
+        ],
+        "description": "Su trama describe las aventuras de Gokū, un guerrero saiyajin, cuyo fin es proteger a la Tierra de otros seres que quieren conquistarla y exterminar a la humanidad. Conforme transcurre la trama, conoce a otros personajes que le ayudan en este propósito. El nombre de la serie proviene de unas esferas mágicas que al ser reunidas invocan a un dragón que concede deseos. En varias ocasiones resultan útiles tanto para Gokū y sus amigos como para la humanidad, aunque también son procuradas de forma constante por algunos seres malignos.",
+        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51oRjO25MTL._SX345_BO1,204,203,200_.jpg",
+        "finished": true,
+        "buyURL": "https://www.amazon.es/Dragon-Ball-n%C2%BA-Manga-Shonen/dp/8468470341/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=dragon+ball+comic&qid=1561806292&s=gateway&sr=8-1",
+        "rating": 5
+    },
+    {
+        "title": "Deadpool",
+        "family": "Americano",
+        "tags": [
+            "Accion",
+            "Humor",
+            "Ciencia ficcion",
+            "Superheroes"
+        ],
+        "description": "Landau, Luckman y Lake quieren que Masacre se reconvierta para ser un auténtico héroe, pero el camino que deberá emprender Wade Wilson no es fácil, y en él encontrará las más inesperadas situaciones: un encuentro con el Increíble Hulk, un viaje en el tiempo hasta los comienzos en la carrera de Spiderman, el enfrentamiento con Daredevil o la convivencia con una misteriosa mujer ciega. Nunca Masacre fue tan brillante, divertido e incluso profundo como cuando estuvo en manos de Joe Kelly.",
+        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51ppYUxTDRL._SX330_BO1,204,203,200_.jpg",
+        "finished": false,
+        "buyURL": "https://www.amazon.es/Masacre-Joe-Kelly/dp/8490945039/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=deadpool+comic&qid=1561806379&s=gateway&sr=8-1",
+        "rating": 4.8
+    },
+    {
+        "title": "Capitán América. El Soldado De Invierno",
+        "family": "Americano",
+        "tags": [
+            "Aventura",
+            "Accion",
+            "Superheroes",
+            "Belico"
+        ],
+        "description": "Durante más de cincuenta años, la Unión Soviética tuvo un agentes encubierto... un indetectable asesino conocido como El Soldado de Invierno. Ahora, ha vuelto, trabajando a las órdenes del General Lukin, que ha conseguido hacerse con un Cubo Cósmico arrebatado a Cráneo Rojo. El Capitán América ha jurado acabar con Lukin, pero en el camino se verá enfrentado contra El Soldado de Invierno, cuya verdadera identidad esconde el mayor secreto del Universo Marvel en más de medio siglo...",
+        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51mrjJObttL._SX324_BO1,204,203,200_.jpg",
+        "finished": true,
+        "buyURL": "https://www.amazon.es/Capit%C3%A1n-Am%C3%A9rica-Soldado-Invierno-Integral/dp/8490247404/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=capitan+america+comic&qid=1561806603&s=gateway&sr=8-1",
+        "rating": 3.2
+    },
+    {
+        "title": "Lanfeust de Troy",
+        "family": "Europeo",
+        "tags": [
+            "Aventura",
+            "Humor",
+            "Espada y brujeria",
+            "Fantasia",
+            "Romance"
+        ],
+        "description": "En Troy, un mundo donde cada habitante posee un poder distinto, Lanfeust, un aprendiz de herrero, tiene la habilidad de fundir los metales. Su vida es tranquila y apacible hasta que un día, al entrar en contacto con una espada... ¡descubre que tiene acceso a un poder absoluto! Acompañado del viejo sabio Nicolede y de sus dos hijas, Cyan y Cixi, Lanfeust traba amistad con la criatura más peligrosa del planeta, el troll Hebus, y juntos se verán en un sinfín de aventuras por todos los rincones de Troy. Lanfeust de Troy es la serie con la que Arleston y Tarquin dieron origen a una de las sagas de fantasía de mayor éxito en la historia del cómic franco belga, en la que los clichés del género se ven actualizados gracias a una equilibrada combinación de acción y humor.",
+        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51L2h8EKe4L._SX362_BO1,204,203,200_.jpg",
+        "finished": true,
+        "buyURL": "https://www.amazon.es/Lanfeust-Troy-Volumen-Scotch-Arleston/dp/8416428891/ref=sr_1_2?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3LAHQKD41ELKI&keywords=lanfeust+de+troy&qid=1561806742&s=gateway&sprefix=lanfeust+%2Caps%2C317&sr=8-2",
+        "rating": 4.8
+    },
+    {
+        "title": "Aldebarán",
+        "family": "Europeo",
+        "tags": [
+            "Aventura",
+            "Fantasia",
+            "Ciencia ficcion"
+        ],
+        "description": "A fines del siglo XXII, la Tierra ha fundado varias colonias en el espacio. La primera fue Aldebarán-4, misteriosamente aislada durante 100 años. La acción arranca en un pueblecito costero de Aldebarán donde empiezan a ocurrir sucesos inexplicables. Los jóvenes Marc Sorensen y Kim Keller buscan respuestas en un viaje que los llevará mucho más lejos de lo que habían imaginado. ",
+        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51L36gueHJL._SX349_BO1,204,203,200_.jpg",
+        "finished": true,
+        "buyURL": "https://www.amazon.es/Aldebar%C3%A1n-Leo/dp/8417147233/ref=pd_sim_14_6/258-4983579-0431958?_encoding=UTF8&pd_rd_i=8417147233&pd_rd_r=c752661b-9a5e-11e9-94c1-e74c64e5ee94&pd_rd_w=s2Ly7&pd_rd_wg=TmMox&pf_rd_p=7cb3e23e-064d-4c10-b8ca-d3e14b48695e&pf_rd_r=PN4NFBM1FEWEB4QTDVEF&psc=1&refRID=PN4NFBM1FEWEB4QTDVEF",
+        "rating": 4
+    },
+    {
+        "title": "Djinn",
+        "family": "Europeo",
+        "tags": [
+            "Aventura",
+            "Drama",
+            "Espada y brujeria",
+            "Fantasia"
+        ],
+        "description": " Kim antes de su periplo por África y su búsqueda de la perla negra, Kim en Calcuta y en el palacio de su Alteza la Rani de Eschnapur. Los tres ciclos de esta gran serie se cierran en un broche fascinante: los dos tiempos se mezclan al son de las campanas del deseo. ¿Recorrerá la sangre de los Djinns las venas de Kim Nelson? Jean Dufaux (Barracuda, Conquistador) y Ana Miralles cierran con este último volumen una de las sagas más exitosas del cómic europeo.",
+        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/61oyekAutAL._SX368_BO1,204,203,200_.jpg",
+        "finished": true,
+        "buyURL": "https://www.amazon.es/CEC-276-Djinn-Miralles-Dufaux/dp/8467926821/ref=pd_sim_14_16?_encoding=UTF8&pd_rd_i=8467926821&pd_rd_r=05fdf1e4-9a5f-11e9-8a1a-d7fd9e3cbef2&pd_rd_w=W4NaN&pd_rd_wg=bqKEt&pf_rd_p=7cb3e23e-064d-4c10-b8ca-d3e14b48695e&pf_rd_r=EVBVS4G56XKY5SE89JWV&psc=1&refRID=EVBVS4G56XKY5SE89JWV",
+        "rating": 2.9
+    },
+    {
+        "title": "Lo que más me gusta son los monstruos",
+        "family": "Americano",
+        "tags": [
+            "Ciencia ficcion",
+            "Novela grafica",
+            "Drama",
+            "Historico",
+            "Terror"
+        ],
+        "description": "Esta es la historia de Karen Reyes, una peculiar niña de diez años que vive en la oscura Chicago de finales de los sesenta. Lleva un diario gráfico que refleja su pasión por las películas de terror de serie B y la iconografía de las revistas pulp de monstruos. Se retrata a sí misma como una niña-lobo vestida de detective y, como tal, se propone un día resolver el misterio que rodea el asesinato de su bella y enigmática vecina del piso de arriba, Anka Silverberg, una superviviente del Holocausto.",
+        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/61Lsz0OA0sL._SX380_BO1,204,203,200_.jpg",
+        "finished": true,
+        "buyURL": "https://www.amazon.es/Aldebar%C3%A1n-Leo/dp/8417147233/ref=pd_sim_14_6/258-4983579-0431958?_encoding=UTF8&pd_rd_i=8417147233&pd_rd_r=c752661b-9a5e-11e9-94c1-e74c64e5ee94&pd_rd_w=s2Ly7&pd_rd_wg=TmMox&pf_rd_p=7cb3e23e-064d-4c10-b8ca-d3e14b48695e&pf_rd_r=PN4NFBM1FEWEB4QTDVEF&psc=1&refRID=PN4NFBM1FEWEB4QTDVEF",
+        "rating": 4.3
+    },
+    {
+        "title": "One Piece",
+        "family": "Manga",
+        "tags": [
+            "Aventura",
+            "Humor",
+            "Accion",
+            "Fantasia"
+        ],
+        "description": "Sigue las aventuras de Monkey D. Luffy, un chico muy especial y elástico, que sueña con ser el rey de los piratas y encontrar una gran tesoro: el One Piece. Para ello, se hace a la mar en un bote con el que buscará la tripulación que le pueda ayudar en su misión.",
+        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51nzexnBtLL._SX311_BO1,204,203,200_.jpg",
+        "finished": false,
+        "buyURL": "https://www.amazon.es/One-Piece-n%C2%BA-01-Amanecer/dp/8468471526/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=one+piece+comic&qid=1561807249&s=books&sr=1-1",
+        "rating": 4
+    },
+    {
+        "title": "Death Note",
+        "family": "Manga",
+        "tags": [
+            "Misterio",
+            "Ciencia ficcion",
+            "Drama",
+            "Fantasia",
+            "Suspense"
+        ],
+        "description": "Death Note supuso toda una revolución en el manga: el protagonista, tras encontrar un objeto mágico de inmenso poder, lo utiliza no para hacer el bien… sino para convertirse en el gobernante supremo del mundo. Esta historia atípica, un verdadero thriller en viñetas, es un clásico moderno del manga, y como tal, ¡merece una edición a su altura! De los autores de BAKUMAN. Consigue la serie completa de esta nueva edición en 6 volúmenes.",
+        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51Ercmv4QKL._SX343_BO1,204,203,200_.jpg",
+        "finished": true,
+        "buyURL": "https://www.amazon.es/Death-Note-C%C3%93MIC-MANGA-Tsugumi/dp/846791209X/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=death+note+comic&qid=1561807388&s=books&sr=1-1",
+        "rating": 4.4
+    }
+]

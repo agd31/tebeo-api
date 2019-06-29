@@ -13,7 +13,7 @@ require('./configs/passport.config');
 const session = require('./configs/session.config');
 const cors = require('./configs/cors.config');
 
-//const comicRouter = require('./routes/comic.routes');
+const comicRouter = require('./routes/comic.route');
 const authRouter = require('./routes/auth.route');
 
 var app = express();
@@ -37,6 +37,7 @@ app.use((req, res, next) => {
 //app.use('/comics/:comicId', comicRouter);
 //app.use('/comics', comicRouter);
 app.use('/', authRouter);
+app.use('/', comicRouter);
 
 app.use((req, res, next) => {
   next(createError(404))
