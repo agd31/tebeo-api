@@ -35,8 +35,6 @@ app.use((req, res, next) => {
   next();
 })
 
-//app.use('/comics/:comicId', comicRouter);
-//app.use('/comics', comicRouter);
 app.use('/', authRouter);
 app.use('/comics', comicRouter);
 app.use('/user', userRouter)

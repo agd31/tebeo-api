@@ -6,6 +6,7 @@ const comicController = require('../controllers/comic.controller')
 
 router.get('/',secure.isAuthenticated,comicController.list) //hecho
 router.get('/:id',secure.isAuthenticated,comicController.showComic)//hecho
+router.post('/search',secure.isAuthenticated,comicController.searchComic)
 
 
 
