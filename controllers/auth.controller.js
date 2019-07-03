@@ -41,11 +41,6 @@ module.exports.logout = (req,res,next) => {
   res.status(204).json()
 }
 
-
-module.exports.getUser =(req,res,next)=>{
-  res.json(req.user)
-}
-
 module.exports.addComicToHave =(req,res,next)=>{
   const { id } = req.params
 

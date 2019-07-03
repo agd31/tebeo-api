@@ -26,18 +26,18 @@ const userSchema = new mongoose.Schema(
     required:true,
     minlength: 8
   },
-  have:[{
-    type: mongoose.Schema.Types.ObjectId, ref:'Comic',
-    default:[]
-  }],
+  // have:[{
+  //   type: mongoose.Schema.Types.ObjectId, ref:'Comic',
+  //   default:[]
+  // }],
 //   wish:{
 //     type: [{type:mongoose.Types.ObjectId, ref:'Comic'}],
 //     default:[]
 //   },
-//   favs:{
-//     type: [{type:mongoose.Types.ObjectId, ref:'Comic'}],
-//     default:[]
-//   }
+  favs:{
+    type: [{type: [mongoose.Schema.Types.ObjectId], ref:'Comic'}],
+    default:[]
+  }
 }, 
 {
     timestamps: true,

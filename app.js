@@ -15,6 +15,7 @@ const cors = require('./configs/cors.config');
 
 const comicRouter = require('./routes/comic.route');
 const authRouter = require('./routes/auth.route');
+const userRouter =require('./routes/user.route')
 
 var app = express();
 
@@ -37,7 +38,9 @@ app.use((req, res, next) => {
 //app.use('/comics/:comicId', comicRouter);
 //app.use('/comics', comicRouter);
 app.use('/', authRouter);
-app.use('/', comicRouter);
+app.use('/comics', comicRouter);
+app.use('/user', userRouter)
+
 
 app.use((req, res, next) => {
   next(createError(404))
