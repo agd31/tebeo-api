@@ -24,7 +24,8 @@ module.exports.searchComic=(req,res,next) => {
 const {tags,family,finished, rating, title}=req.body
 const criteria = {};
 
-//if (title) { criteria.title = title }
+// if (title) { criteria.title = title }
+if (title) { criteria.title = new RegExp(title, 'i') }
 if (tags) { criteria.tags = {$all:tags} }
 if (family) { criteria.family = {$in:family} }
 if (finished) { criteria.finished = finished }
