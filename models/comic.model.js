@@ -16,29 +16,29 @@ const comicSchema = new mongoose.Schema(
       type: [String],
       required: true,
       enum: [
-        "Accion",
-        "Artbook",
-        "Aventura",
-        "Belico",
-        "Ciencia ficcion",
-        "Cotidiano",
-        "Drama",
-        "Espada y brujeria",
-        "Fantasia",
-        "Historico",
-        "Ciberpunk",
-        "Humor",
-        "Novela grafica",
-        "Misterio",
-        "Noir",
-        "Piratas",
-        "Romance",
-        "Space Opera",
-        "Steampunk",
-        "Superheroes",
-        "Suspense",
-        "Terror",
-        "Zombies"
+        "accion",
+        "artbook",
+        "aventura",
+        "belico",
+        "ciencia ficcion",
+        "cotidiano",
+        "drama",
+        "espada y brujeria",
+        "fantasia",
+        "historico",
+        "ciberpunk",
+        "humor",
+        "novela grafica",
+        "misterio",
+        "noir",
+        "piratas",
+        "romance",
+        "space opera",
+        "steampunk",
+        "superheroes",
+        "suspense",
+        "terror",
+        "zombies"
       ]
     },
     description: { type: String },
@@ -48,7 +48,8 @@ const comicSchema = new mongoose.Schema(
     rating: {
       type: Number,
       default: 0
-    }
+    },
+    amateur: false
   },
   { timestamps: true }
 );

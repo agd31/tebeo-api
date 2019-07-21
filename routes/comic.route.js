@@ -4,12 +4,12 @@ const router = express.Router();
 const secure = require('../middlewares/secure.mid')
 const comicController = require('../controllers/comic.controller')
 
-router.get('/',secure.isAuthenticated,comicController.list) //hecho
-router.get('/americano',secure.isAuthenticated,comicController.showComicAmericano)
-router.get('/europeo',secure.isAuthenticated,comicController.showComicEuropeo)
-router.get('/manga',secure.isAuthenticated,comicController.showComicManga)
-router.get('/:id',secure.isAuthenticated,comicController.showComic)//hecho
-router.post('/search',secure.isAuthenticated,comicController.searchComic)
+router.get('/',comicController.list) //hecho
+router.get('/americano',comicController.showComicAmericano)
+router.get('/europeo',comicController.showComicEuropeo)
+router.get('/manga',comicController.showComicManga)
+router.get('/:id',comicController.showComic)//hecho
+router.post('/search',comicController.searchComic)
 
 
 

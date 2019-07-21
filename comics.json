@@ -1,154 +1,900 @@
-[
-    {
-        "title": "El quijote",
-        "family": "Europeo",
-        "tags": [
-            "Aventura",
-            "Humor",
-            "Drama",
-            "Historico"
-        ],
-        "description": "El ingenioso hidalgo don Quijote de la Mancha narra las aventuras de Alonso Quijano, un hidalgo pobre que de tanto leer novelas de caballería acaba enloqueciendo y creyendo ser un caballero andante, nombrándose a sí mismo como don Quijote de la Mancha. Sus intenciones son ayudar a los pobres y desfavorecidos, y lograr el amor de la supuesta Dulcinea del Toboso, que es en realidad es una campesina llamada Aldonza Lorenzo. Decide nombrar a Sancho Panza, un empleado suyo, su escudero. Juntos viven muchas aventuras y tras ser vencido por el Caballero de la Blanca Luna se retira a su hogar, donde, tras adquirir de nuevo la cordura, fallece.",
-        "imageURL": "http://imag.lecturalia.com/img/libro/el-ingenioso-hidalgo-don-quijote-de-la-mancha-8152.jpg",
-        "finished": true,
-        "buyURL": "https://www.amazon.es/Don-Quijote-Mancha-R/dp/8466320407",
-        "rating": 4
-    },
-    {
-        "title": "Dragonball",
-        "family": "Manga",
-        "tags": [
-            "Aventura",
-            "Humor",
-            "Accion",
-            "Fantasia"
-        ],
-        "description": "Su trama describe las aventuras de Gokū, un guerrero saiyajin, cuyo fin es proteger a la Tierra de otros seres que quieren conquistarla y exterminar a la humanidad. Conforme transcurre la trama, conoce a otros personajes que le ayudan en este propósito. El nombre de la serie proviene de unas esferas mágicas que al ser reunidas invocan a un dragón que concede deseos. En varias ocasiones resultan útiles tanto para Gokū y sus amigos como para la humanidad, aunque también son procuradas de forma constante por algunos seres malignos.",
-        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51oRjO25MTL._SX345_BO1,204,203,200_.jpg",
-        "finished": true,
-        "buyURL": "https://www.amazon.es/Dragon-Ball-n%C2%BA-Manga-Shonen/dp/8468470341/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=dragon+ball+comic&qid=1561806292&s=gateway&sr=8-1",
-        "rating": 5
-    },
-    {
-        "title": "Deadpool",
-        "family": "Americano",
-        "tags": [
-            "Accion",
-            "Humor",
-            "Ciencia ficcion",
-            "Superheroes"
-        ],
-        "description": "Landau, Luckman y Lake quieren que Masacre se reconvierta para ser un auténtico héroe, pero el camino que deberá emprender Wade Wilson no es fácil, y en él encontrará las más inesperadas situaciones: un encuentro con el Increíble Hulk, un viaje en el tiempo hasta los comienzos en la carrera de Spiderman, el enfrentamiento con Daredevil o la convivencia con una misteriosa mujer ciega. Nunca Masacre fue tan brillante, divertido e incluso profundo como cuando estuvo en manos de Joe Kelly.",
-        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51ppYUxTDRL._SX330_BO1,204,203,200_.jpg",
-        "finished": false,
-        "buyURL": "https://www.amazon.es/Masacre-Joe-Kelly/dp/8490945039/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=deadpool+comic&qid=1561806379&s=gateway&sr=8-1",
-        "rating": 4.8
-    },
-    {
-        "title": "Capitán América. El Soldado De Invierno",
-        "family": "Americano",
-        "tags": [
-            "Aventura",
-            "Accion",
-            "Superheroes",
-            "Belico"
-        ],
-        "description": "Durante más de cincuenta años, la Unión Soviética tuvo un agentes encubierto... un indetectable asesino conocido como El Soldado de Invierno. Ahora, ha vuelto, trabajando a las órdenes del General Lukin, que ha conseguido hacerse con un Cubo Cósmico arrebatado a Cráneo Rojo. El Capitán América ha jurado acabar con Lukin, pero en el camino se verá enfrentado contra El Soldado de Invierno, cuya verdadera identidad esconde el mayor secreto del Universo Marvel en más de medio siglo...",
-        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51mrjJObttL._SX324_BO1,204,203,200_.jpg",
-        "finished": true,
-        "buyURL": "https://www.amazon.es/Capit%C3%A1n-Am%C3%A9rica-Soldado-Invierno-Integral/dp/8490247404/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=capitan+america+comic&qid=1561806603&s=gateway&sr=8-1",
-        "rating": 3.2
-    },
-    {
-        "title": "Lanfeust de Troy",
-        "family": "Europeo",
-        "tags": [
-            "Aventura",
-            "Humor",
-            "Espada y brujeria",
-            "Fantasia",
-            "Romance"
-        ],
-        "description": "En Troy, un mundo donde cada habitante posee un poder distinto, Lanfeust, un aprendiz de herrero, tiene la habilidad de fundir los metales. Su vida es tranquila y apacible hasta que un día, al entrar en contacto con una espada... ¡descubre que tiene acceso a un poder absoluto! Acompañado del viejo sabio Nicolede y de sus dos hijas, Cyan y Cixi, Lanfeust traba amistad con la criatura más peligrosa del planeta, el troll Hebus, y juntos se verán en un sinfín de aventuras por todos los rincones de Troy. Lanfeust de Troy es la serie con la que Arleston y Tarquin dieron origen a una de las sagas de fantasía de mayor éxito en la historia del cómic franco belga, en la que los clichés del género se ven actualizados gracias a una equilibrada combinación de acción y humor.",
-        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51L2h8EKe4L._SX362_BO1,204,203,200_.jpg",
-        "finished": true,
-        "buyURL": "https://www.amazon.es/Lanfeust-Troy-Volumen-Scotch-Arleston/dp/8416428891/ref=sr_1_2?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3LAHQKD41ELKI&keywords=lanfeust+de+troy&qid=1561806742&s=gateway&sprefix=lanfeust+%2Caps%2C317&sr=8-2",
-        "rating": 4.8
-    },
-    {
-        "title": "Aldebarán",
-        "family": "Europeo",
-        "tags": [
-            "Aventura",
-            "Fantasia",
-            "Ciencia ficcion"
-        ],
-        "description": "A fines del siglo XXII, la Tierra ha fundado varias colonias en el espacio. La primera fue Aldebarán-4, misteriosamente aislada durante 100 años. La acción arranca en un pueblecito costero de Aldebarán donde empiezan a ocurrir sucesos inexplicables. Los jóvenes Marc Sorensen y Kim Keller buscan respuestas en un viaje que los llevará mucho más lejos de lo que habían imaginado. ",
-        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51L36gueHJL._SX349_BO1,204,203,200_.jpg",
-        "finished": true,
-        "buyURL": "https://www.amazon.es/Aldebar%C3%A1n-Leo/dp/8417147233/ref=pd_sim_14_6/258-4983579-0431958?_encoding=UTF8&pd_rd_i=8417147233&pd_rd_r=c752661b-9a5e-11e9-94c1-e74c64e5ee94&pd_rd_w=s2Ly7&pd_rd_wg=TmMox&pf_rd_p=7cb3e23e-064d-4c10-b8ca-d3e14b48695e&pf_rd_r=PN4NFBM1FEWEB4QTDVEF&psc=1&refRID=PN4NFBM1FEWEB4QTDVEF",
-        "rating": 4
-    },
-    {
-        "title": "Djinn",
-        "family": "Europeo",
-        "tags": [
-            "Aventura",
-            "Drama",
-            "Espada y brujeria",
-            "Fantasia"
-        ],
-        "description": " Kim antes de su periplo por África y su búsqueda de la perla negra, Kim en Calcuta y en el palacio de su Alteza la Rani de Eschnapur. Los tres ciclos de esta gran serie se cierran en un broche fascinante: los dos tiempos se mezclan al son de las campanas del deseo. ¿Recorrerá la sangre de los Djinns las venas de Kim Nelson? Jean Dufaux (Barracuda, Conquistador) y Ana Miralles cierran con este último volumen una de las sagas más exitosas del cómic europeo.",
-        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/61oyekAutAL._SX368_BO1,204,203,200_.jpg",
-        "finished": true,
-        "buyURL": "https://www.amazon.es/CEC-276-Djinn-Miralles-Dufaux/dp/8467926821/ref=pd_sim_14_16?_encoding=UTF8&pd_rd_i=8467926821&pd_rd_r=05fdf1e4-9a5f-11e9-8a1a-d7fd9e3cbef2&pd_rd_w=W4NaN&pd_rd_wg=bqKEt&pf_rd_p=7cb3e23e-064d-4c10-b8ca-d3e14b48695e&pf_rd_r=EVBVS4G56XKY5SE89JWV&psc=1&refRID=EVBVS4G56XKY5SE89JWV",
-        "rating": 2.9
-    },
-    {
-        "title": "Lo que más me gusta son los monstruos",
-        "family": "Americano",
-        "tags": [
-            "Ciencia ficcion",
-            "Novela grafica",
-            "Drama",
-            "Historico",
-            "Terror"
-        ],
-        "description": "Esta es la historia de Karen Reyes, una peculiar niña de diez años que vive en la oscura Chicago de finales de los sesenta. Lleva un diario gráfico que refleja su pasión por las películas de terror de serie B y la iconografía de las revistas pulp de monstruos. Se retrata a sí misma como una niña-lobo vestida de detective y, como tal, se propone un día resolver el misterio que rodea el asesinato de su bella y enigmática vecina del piso de arriba, Anka Silverberg, una superviviente del Holocausto.",
-        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/61Lsz0OA0sL._SX380_BO1,204,203,200_.jpg",
-        "finished": true,
-        "buyURL": "https://www.amazon.es/Aldebar%C3%A1n-Leo/dp/8417147233/ref=pd_sim_14_6/258-4983579-0431958?_encoding=UTF8&pd_rd_i=8417147233&pd_rd_r=c752661b-9a5e-11e9-94c1-e74c64e5ee94&pd_rd_w=s2Ly7&pd_rd_wg=TmMox&pf_rd_p=7cb3e23e-064d-4c10-b8ca-d3e14b48695e&pf_rd_r=PN4NFBM1FEWEB4QTDVEF&psc=1&refRID=PN4NFBM1FEWEB4QTDVEF",
-        "rating": 4.3
-    },
-    {
-        "title": "One Piece",
-        "family": "Manga",
-        "tags": [
-            "Aventura",
-            "Humor",
-            "Accion",
-            "Fantasia"
-        ],
-        "description": "Sigue las aventuras de Monkey D. Luffy, un chico muy especial y elástico, que sueña con ser el rey de los piratas y encontrar una gran tesoro: el One Piece. Para ello, se hace a la mar en un bote con el que buscará la tripulación que le pueda ayudar en su misión.",
-        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51nzexnBtLL._SX311_BO1,204,203,200_.jpg",
-        "finished": false,
-        "buyURL": "https://www.amazon.es/One-Piece-n%C2%BA-01-Amanecer/dp/8468471526/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=one+piece+comic&qid=1561807249&s=books&sr=1-1",
-        "rating": 4
-    },
-    {
-        "title": "Death Note",
-        "family": "Manga",
-        "tags": [
-            "Misterio",
-            "Ciencia ficcion",
-            "Drama",
-            "Fantasia",
-            "Suspense"
-        ],
-        "description": "Death Note supuso toda una revolución en el manga: el protagonista, tras encontrar un objeto mágico de inmenso poder, lo utiliza no para hacer el bien… sino para convertirse en el gobernante supremo del mundo. Esta historia atípica, un verdadero thriller en viñetas, es un clásico moderno del manga, y como tal, ¡merece una edición a su altura! De los autores de BAKUMAN. Consigue la serie completa de esta nueva edición en 6 volúmenes.",
-        "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51Ercmv4QKL._SX343_BO1,204,203,200_.jpg",
-        "finished": true,
-        "buyURL": "https://www.amazon.es/Death-Note-C%C3%93MIC-MANGA-Tsugumi/dp/846791209X/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=death+note+comic&qid=1561807388&s=books&sr=1-1",
-        "rating": 4.4
-    }
-]
+﻿[{
+    "title": "El quijote",
+    "family": "Europeo",
+    "tags": [
+        "aventura",
+        "humor",
+        "drama",
+        "historico"
+    ],
+    "description": "El ingenioso hidalgo don Quijote de la Mancha narra las aventuras de Alonso Quijano, un hidalgo pobre que de tanto leer novelas de caballería acaba enloqueciendo y creyendo ser un caballero andante, nombrándose a sí mismo como don Quijote de la Mancha. Sus intenciones son ayudar a los pobres y desfavorecidos, y lograr el amor de la supuesta Dulcinea del Toboso, que es en realidad es una campesina llamada Aldonza Lorenzo. Decide nombrar a Sancho Panza, un empleado suyo, su escudero. Juntos viven muchas aventuras y tras ser vencido por el Caballero de la Blanca Luna se retira a su hogar, donde, tras adquirir de nuevo la cordura, fallece.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/41XPN3m7jvL._SX313_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Don-Quijote-Mancha-R/dp/8466320407",
+    "rating": 4,
+    "amateur": false
+},
+
+{
+    "title": "Cleopatra",
+    "family": "Europeo",
+    "tags": [
+        "humor",
+        "cotidiano"
+    ],
+    "description": "Celebremos como se merece el reencuentro con esta mujer única y maravillosa ante la que uno no puede sino enamorarse. Y es que Cleopatra está hecha de la materia con la que se tejen los sueños. Manel Gimeno Cleopatra es uno de los personajes más populares del cómic español, y Mique Beltrán uno de sus grandes nombres. Por fin, todas las historietas de nuestra heroína se agrupan en una edición digna de ella. Pasaporte para Honk Kong, La pirámide de cristal, La rebelión de las sombras y muchas más historietas y contenidos extra en este volumen que no puede faltarle a ningún amante del noveno arte.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/511fZp1iTFL._SX375_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Cleopatra-Integral-Beltran-Mique/dp/8416217459/",
+    "rating": 4,
+    "amateur": false
+},
+{
+    "title": "Gaston Elgafe",
+    "family": "Europeo",
+    "tags": [
+        "humor",
+        "cotidiano"
+    ],
+    "description": "Por fin podemos disfrutar de las aventuras de Gaston, el más liante de los trabajadores. He aquí el primer tomo En 1957 Franquin le propone a Yvan Delporte, por entonces redactor jefe del semanario Spirou, la creación de un nuevo personaje, un “héroe sin ocupación” que no estará integrado en ninguna serie de la revista, y que se dedicará a sabotear el trabajo de sus redactores y dibujantes. En el nº 985 de Spirou, fechado el 28 de febrero de 1957, aparece un extraño personaje que, a partir de entonces, irá pululando por diversas páginas del semanario sembrando el caos a su alrededor. Delporte lo bautiza como Gastón; no será hasta más adelante que Franquin le otorgará el apellido de Elgafe.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51%2B4WzM9YzL._SX371_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Gaston-Elgafe-Edición-integral-Europeo/dp/8467919450/",
+    "rating": 4.7,
+    "amateur": false
+},
+{
+    "title": "Lo mejor de Sir Tim O'theo",
+    "family": "Europeo",
+    "tags": [
+        "humor",
+        "cotidiano",
+        "misterio",
+        "suspense"
+    ],
+    "description": "Sin duda alguna, el personaje que hizo imperecedero a Raf, uno de los grandes de la historieta española, es Sir Tim O´Theo que vive sus aventuras junto a su ayudante Patson. Parodia de Sherlock Holmes y su ayudante Watson, es uno de los personajes más recordados de la editorial Bruguera.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51vJ9hIlsQL._SX355_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/mejor-Sir-Tim-Otheo-aventuras/dp/8402421547/",
+    "rating": 5,
+    "amateur": false
+},
+{
+    "title": "Mortadelo y Filemón",
+    "family": "Europeo",
+    "tags": [
+        "humor",
+        "aventura",
+        "fantasia"
+    ],
+    "description": "El 20 de enero de 1958, en el número 1394 de la revista Pulgarcito, de la Editorial Bruguera, aparece la primera página de Mortadelo y Filemón. Nadie era capaz, por aquel entonces, de pronosticar el enorme éxito que tendría la serie de Francisco Ibáñez. Presentamos aquí una cuidada antología de esas páginas, que constituyen el germen de la serie más popular de la historieta de nuestro país.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51WJX8XApaL._SX365_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Mortadelo-Filemón-Agencia-información-Maestros/dp/8466644466/",
+    "rating": 5,
+    "amateur": false
+},
+{
+    "title": "Tintin en el Congo",
+    "family": "Europeo",
+    "tags": [
+        "humor",
+        "aventura",
+        "fantasia",
+        "suspense",
+        "misterio"
+    ],
+    "description": "En esta aventura, Tintín parte al centro de África, para realizar un reportaje. Allí le esperan peligrosas aventuras, pues sus enemigos le persiguen para matarle. Al volver Tintín de su viaje a Rusia relatado en Tintín en el país de los Soviets, Hergé recibe el encargo de hacer viajar a Tintín al Congo, entonces colonia de Bélgica. Este álbum es un documento excelente para ver cómo imaginaban los europeos de la época a África y a los africanos.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51dxg3QMZnL._SX362_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/TINTÍN-EN-EL-CONGO-AVENTURAS/dp/8426107788/",
+    "rating": 1.9,
+    "amateur": false
+},
+{
+    "title": "Astérix el galo",
+    "family": "Europeo",
+    "tags": [
+        "humor",
+        "aventura",
+        "fantasia",
+        "accion"
+    ],
+    "description": "Con este título nace Astérix, el mítico héroe galo creado por los famosos Goscinny y Uderzo. Para lograr hacerse con el secreto de la poción mágica que les da a los habitantes de la irreductible aldea una fuerza sobrehumana, los romanos secuestran a Panorámix, el druida. Astérix, acompañado por su fiel amigo Obélix, tendrá que rescatarlo.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/61BX5qX11bL._SX375_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Astérix-galo-Castellano-Colección-Clásica/dp/8469602489",
+    "rating": 4,
+    "amateur": false
+},
+{
+    "title": "Como dibujar y pintar steampunk",
+    "family": "Europeo",
+    "tags": [
+        "artbook",
+        "steampunk"
+    ],
+    "description": "Bienvenidos a un mundo donde la moda es victoriana, la tecnología punta es el vapor y los talleres de los inventores están llenos de los objetos más extraños. En este libro encontrarás todos los secretos para dibujar, pintar e ilustrar digitalmente todos los elementos propios del steampunk. Y además, descubrirás la historia y los orígenes del género.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/61AHBW16GSL._SX375_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/dibujar-pintar-steampunk-Comic-Europeo/dp/8467909269/",
+    "rating": 3.5,
+    "amateur": false
+},
+{
+    "title": "Barón rojo",
+    "family": "Europeo",
+    "tags": [
+        "accion",
+        "aventura",
+        "belico",
+        "drama",
+        "historico"
+    ],
+    "description": "Europa, Primera Guerra Mundial. Manfred von Richthofen, más conocido como «El Barón Rojo», es un asesino al que la aviación de la Primera Guerra Mundial da alas para alcanzar su sueño: causar el mayor número de bajas posible entre las tropas aliadas.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51TQ0IBMEEL._SX373_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/BARON-ROJO-EDICION-INTEGRAL-AMPLIADA/dp/8467933747/",
+    "rating": 4.2,
+    "amateur": false
+},
+{
+    "title": "Long John Silver",
+    "family": "Europeo",
+    "tags": [
+        "accion",
+        "aventura",
+        "drama",
+        "piratas"
+    ],
+    "description": "El gran homenaje de dorison y laufray a r. L. Stevenson en un integral repleto de arte inédito es el hijo de la tinta y la pluma, la figura de proa de la isla del tesoro de r. L. Stevenson. Ha vivido de crímenes y sueños, conocido los galeones de madera, el saqueo de maracaibo y las revueltas de bucaneros. Mezclará el oro y la sangre para sellar su destino en los confines de los reinos perdidos de la amazonia. Es el último pirata. Es la leyenda: long john silver. ",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/41wlL2ZOA%2BL._SX373_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Long-John-Silver-Edición-Integral/dp/846793574X",
+    "rating": 4.6,
+    "amateur": false
+},
+{
+    "title": "Blacksad",
+    "family": "Europeo",
+    "tags": [
+        "accion",
+        "aventura",
+        "drama",
+        "misterio",
+        "noir",
+        "suspense"
+    ],
+    "description": "Estos dos jóvenes autores españoles entran por la puerta grande del mundo del cómic con el primer álbum de una nueva serie que dará mucho que hablar. Género policiaco con animales antropomórficos en un ambiente de serie negra magistralmente ilustrado por Juanjo Guarnido",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/515G1CajMDL._SX354_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/BLACKSAD-01-LUGAR-SOMBRAS-EUROPEO/dp/8484312453",
+    "rating": 4.8,
+    "amateur": true
+},
+{
+    "title": "Maus",
+    "family": "Europeo",
+    "tags": [
+        "belico",
+        "drama",
+        "historico",
+        "novela grafica",
+        "suspense",
+        "terror"
+    ],
+    "description": "Maus es la biografía de Vladek Spiegelman, un judío polaco superviviente de los campos de exterminio nazis, contada a través de su hijo Art, un dibujante de cómics que quiere dejar memoria de la aterradora persecución que sufrieron millones de personas en la Europa sometida por Hitler y de las consecuencias de este sufrimiento en la vida cotidiana de las generaciones posteriores.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51KrkS6te5L._SX343_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Maus-RESERVOIR-GRÁFICA-Art-Spiegelman/dp/8439720718",
+    "rating": 4.6,
+    "amateur": false
+},
+{
+    "title": "Pyongyang",
+    "family": "Americano",
+    "tags": [
+        "cotidiano",
+        "drama",
+        "humor",
+        "novela grafica"
+    ],
+    "description": "El mejor documental que se ha hecho sobre Corea del Norte es una historieta. El quebequés Guy Delisle cuenta su estancia en la capital coreana con un agudo sentido de la observación y la ironía. 'Pyongyang', obra que lleva vendidos más de 30.000 ejemplares en castellano, es una visión realista de un país en el que la pesadilla de Orwell se ha convertido en realidad, pero todo ello tratado desde la rigurosidad del periodista, la perplejidad de un occidental y la ironía de un viajero curtido.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51f6CnOodZL._SX355_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Pyongyang-Sillón-Orejero-Guy-Delisle/dp/8496815056/",
+    "rating": 4.1,
+"amateur": false
+},
+{
+    "title": "Persepolis",
+    "family": "Europeo",
+    "tags": [
+        "cotidiano",
+        "drama",
+        "historico",
+        "novela grafica"
+    ],
+    "description": "Persépolis es la autobiografía de Marjane Satrapi, una mujer iraní nacida en Teherán en 1969 en el seno de una familia progresista. Pero, además del retrato de la vida de la autora, también es el reflejo de la revolución iraní de 1979 que dio lugar a un gobierno islámico y de cómo lo vivieron las familias del país. Desde el inicio, con la introducción del velo en la vida social y la separación por sexos en las escuelas, hasta la vida universitaria y las revueltas estudiantiles, Satrapi hace un repaso a su vida que se remonta a sus antepasados, ayudándonos a entender las motivaciones históricas de la revolución islámica, mostrándonos a la vez una opinión crítica con el gobierno.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/41DkURvrCaL._SX349_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Persépolis-bolsillo-castellano-portada-Europeo/dp/8467916567/",
+    "rating": 5,
+"amateur": false
+},
+{
+    "title": "Valerian",
+    "family": "Europeo",
+    "tags": [
+        "accion",
+        "aventura",
+        "ciencia ficcion",
+        "ciberpunk",
+        "humor",
+        "space opera"
+        
+    ],
+    "description": "VALERIAN, AGENTE ESPACIOTEMPORAL es un clásico indiscutible de la ciencia ficción europea y la obra cumbre de sus autores, Mezières y Christin; una influencia básica para las grandes space-opera de finales del siglo XX, desde STAR WARS hasta EL QUINTO ELEMENTO. Este primer volumen incluye las historias EL IMPERIO DE LOS MIL PLANETAS, EL PAÍS SIN ESTRELLA, y MUNDOS FICTICIOS. En ellas acompañaremos en sus innumerables viajes por la galaxia a Valerian y Laureline, dos agentes del servicio espaciotemporal de Galaxity, capital del imperio galáctico terrestre.",
+    "imageURL": "",
+    "finished": true,
+    "buyURL": "",
+    "rating": 4.6,
+"amateur": false
+},
+{
+    "title": "Sandman",
+    "family": "Americano",
+    "tags": [
+    "ciencia ficcion",
+    "cotidiano",
+    "drama",
+    "fantasia",
+    "misterio",
+    "suspense"
+    ],
+    "description": "La obra maestra de Neil Gaiman que revolucionó el mundo del cómic durante la década de los noventa, por fin disponible en una nueva edición. Una inolvidable epopeya protagonizada por Morfeo, Rey del Sueño perteneciente a la familia de los Eternos. Sandman es con razón la colección de cómics más aplaudida y premiada de los años noventa. Esta epopeya soberbia y muy melancólica cuenta con el elegante guion de Neil Gaiman y los dibujos de un elenco de artistas que se van alternando y que se encuentran entre los más solicitados de la actualidad. Es una rica combinación de mitos modernos y fantasía oscura donde la ficción contemporánea, el drama histórico y la leyenda se entrelazan a la perfección. La saga de Sandman comprende una sucesión de relatos únicos en la literatura gráfica y narran una historia que jamás olvidaréis.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51bBlx2o7VL._SX318_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Sandman-núm-01-Preludios-Nocturnos/dp/8417612955/",
+    "rating": 3.7,
+"amateur": false
+}
+,
+{
+    "title": "Conan La leyenda",
+    "family": "Americano",
+    "tags": [
+        "accion",
+        "aventura",
+        "espada y brujeria",
+        "fantasia"
+    ],
+    "description": "El impresionante debut de Conan en Dark Horse fue uno de los mayores eventos de la industria del cómic en 2004. El guionista Kurt Busiek, que trajo una perspectiva fresca y novedosa al género superheroico con obras como Marvels y Astro City, se unió al reputado dibujante Cary Nord en una serie que no tardaría en ser aclamada y recomendada por lectores y crítica por igual.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/517v4NCj4-L._SX316_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Conan-leyenda-Integral-nº-01/dp/8491734694/",
+    "rating": 4.6,
+"amateur": false
+},
+{
+    "title": "Hellboy",
+    "family": "Americano",
+    "tags": [
+        "accion",
+        "aventura",
+        "ciencia ficcion",
+        "fantasia",
+        "humor",
+        "superheroes"
+    ],
+    "description": "Con motivo del 25 aniversario de la publicación del primer cómic de Hellboy, Semilla de destrucción nº1, recuperamos ese primer cómic en una edición especial a gran tamaño y en blanco y negro que además cuenta con una nueva cubierta dibujada por Mike Mignola. Una edición especial que solo estará disponible en la edición española, imprescindible para coleccionistas",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/512o1EMznxL._SX323_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Hellboy-Semilla-Destrucción-Especial-Aniversario/dp/8467934972",
+    "rating": 3,
+"amateur": false
+},
+{
+    "title": "Isaac El Pirata",
+    "family": "Europeo",
+    "tags": [
+        "accion",
+        "aventura",
+        "drama",
+        "historico",
+        "piratas"
+    ],
+    "description": "Isaac Sofer, pintor pobre pero afortunado en el amor, subsiste a base de trabajillos mientras sueña con vivir una gran aventura. Cuando surge la posibilidad de embarcarse en un navío, Isaac acepta sin pensarlo, ¡sin saber que se dispone a dar la vuelta al mundo! Edición integral de una de las series fundamentales de las últimas décadas, enmarcada dentro de lo que se dio en llamar Nouvelle BD, corriente que marcó de manera decisiva el cómic francobelga y de la que salieron autores como Marjane Satrapi o Lewis Trondheim. Christophe Blain –Gus, Quai d’Orsay– nos ofrece en Isaac el pirata un magistral relato de aventuras repleto de acción, humor y momentos inolvidables.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/41TGJaCYB8L._SX357_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Isaac-El-Pirata-Edición-Integral/dp/8467936312/",
+    "rating": 4.4,
+"amateur": false
+},
+{
+    "title": "A Zombie Christmas Carol",
+    "family": "Europeo",
+    "tags": [
+        "accion",
+        "ciencia ficcion",
+        "drama",
+        "fantasia",
+        "suspense",
+        "terror",
+        "zombies"
+    ],
+    "description": "Esta emocionante y sanguinaria historia habla sobre el agrio y tacaño Ebenezer Scrooge y su épico viaje de transformación y redención, provocado por una plaga de zombis voraces. Después de las visitas sobrenaturales del muerto Jacob Marley, él mismo asesinado por zombies y los Fantasmas de las Navidades Pasadas, Presentes y Aún por Venir, se da cuenta de que es la única esperanza de Londres. En una ciudad asediada por los no muertos, solo hay un hombre con el carácter y el sentido mental capaces de interponerse en su camino. Un giro emocionante e inusual en el cuento festivo originalmente escrito por Charles Dickens.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51pzECqVGCL._SX335_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Zombie-Christmas-Carol-Michael-Thomas/dp/1906512663/",
+    "rating": 3.9,
+"amateur": false
+},
+{
+    "title": "The Zombies of Lake Woebegotten",
+    "family": "Europeo",
+    "tags": [
+        "accion",
+        "ciencia ficcion",
+        "humor",
+        "fantasia",
+        "suspense",
+        "terror",
+        "zombies"
+    ],
+    "description": "La ciudad de Lake Woebegotton, MN, es una ciudad pequeña, llena de gente común (pero por encima del promedio), que lleva vidas ordinarias. Ordinario, es decir, hasta que los muertos vuelven a la vida, ¡con la intención de deleitarse con los vivos! Ahora este pequeño pueblo de ciudadanos por encima del promedio debe superar sus pequeñas rivalidades y secretos ocultos para sobrevivir a un ataque de los muertos.",
+    "imageURL": "https://images-eu.ssl-images-amazon.com/images/I/51%2B3KGMb1BL.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Zombies-Lake-Woebegotten-English-ebook/dp/B07H48BRZP/",
+    "rating": 4.6,
+"amateur": true
+},
+{
+    "title": "Tokyo zombie",
+    "family": "Manga",
+    "tags": [
+        "accion",
+        "ciencia ficcion",
+        "humor",
+        "fantasia",
+        "suspense",
+        "zombies"
+    ],
+    "description": "La historia nos presenta a dos currantes de una fábrica que dedican la pausa del bocadillo a entrenar sus habilidades como luchadores de artes marciales. De manera semi accidental, matan a su jefe y le entierran en un vertedero ilegal de residuos tóxicos, el Fuji Negro. Resulta que no es el único cadáver, y entre los productos químicos y radiactivos, se reactivan las células de los difuntos. El apocalipsis zombi está servido. Un relato épico, atravesando Japón en un camión, sobreviviendo, luchando y viendo en esa nueva sociedad postapocalíptica en la que los ricos, como de costumbre, han tomado las riendas y sacan provecho. Una diversa y enloquecida alegoría sobre la enfermiza estructura de clases de nuestra sociedad.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51MTGL3OTIL._SX351_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/TOKYO-ZOMBIE-YUSAKU-HANAKUMA/dp/8494446436/",
+    "rating": 4.8,
+"amateur": true
+},
+{
+    "title": "Tokyo Ghoul",
+    "family": "Manga",
+    "tags": [
+        "accion",
+        "ciencia ficcion",
+        "humor",
+        "fantasia",
+        "suspense",
+        "zombies"
+    ],
+    "description": "Shy Ken Kaneki está encantado de ir a una cita con la hermosa Rize. Pero resulta que ella solo está interesada en su cuerpo, comerlo, eso es. Cuando un rescate moralmente cuestionable lo transforma en el primer híbrido semihumano mitad humano, Ken se ve arrastrado al oscuro y violento mundo de los Ghouls, que existe junto al nuestro.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51gTbdvr9tL._SX347_BO1,204,203,200_.jpg",
+    "finished": false,
+    "buyURL": "https://www.amazon.es/Tokyo-Ghoul-01-Vv-Aa/dp/1421580365/",
+    "rating": 4.3,
+"amateur": false
+},
+{
+    "title": "My Hero Academia",
+    "family": "Manga",
+    "tags": [
+        "accion",
+        "ciencia ficcion",
+        "humor",
+        "superheroes"
+    ],
+    "description": "Estamos en un mundo donde abundan los superhéroes (y los supervillanos). Los mejores humanos son entrenados en la Academia de Héroes para optimizar sus poderes. Entre la minoria normal, sin poder alguno, aparece Izuku Midoriya, dispuesto a ser una excepción y formarse en la Academia.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51sGQJ2gQXL._SX315_BO1,204,203,200_.jpg",
+    "finished": false,
+    "buyURL": "https://www.amazon.es/My-Hero-Academia-Manga-Shonen/dp/8416693501/",
+    "rating": 4.7,
+"amateur": false
+},
+{
+    "title": "Fairy tail",
+    "family": "Manga",
+    "tags": [
+        "accion",
+        "aventura",
+        "drama",
+        "fantasia",
+        "humor"
+    ],
+    "description": "El gremio de magos Fairy Tail es el más temido de todo el reino. Allí conviven los magos más duros, los más atrevidos... y los más destructivos. Lucy es una chica que quiere ingresar en Fairy Tail, para poder desarrollar sus poderes mágicos y cumplir los encargos que le puedan salir desde el gremio. Es así como conoce a Natsu, un Dragon Slayer, mago que utiliza la magia de los dragones, y que le permite convertir en fuego cualquier parte de su cuerpo. Junto al resto de sus compañeros, se enfrentarán a los encargos más temibles y duros que les puedan llegar, incluso contra otros gremios que ansían el poder de Fairy Tail.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51bDA66yMbL._SX335_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/FAIRY-TAIL-01-CÓMIC-MANGA/dp/8498478189/",
+    "rating": 4.8,
+"amateur": false
+},
+{
+    "title": "The Promised Neverland",
+    "family": "Manga",
+    "tags": [
+        "accion",
+        "cotidiano",
+        "drama",
+        "fantasia",
+        "misterio",
+        "suspense",
+        "terror"
+    ],
+    "description": "Emma, norman y ray son tres huérfanos que viven felices en el idílico orfanato grace field house, esperando el momento en el que se les asignará una familia adoptiva. Todo cambia cuando descubren accidentalmente la horrorosa realidad de su existencia.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51cJ-tV4gYL._SX326_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Promised-Neverland-Shirai-Kaiu/dp/8467930888/ref",
+    "rating": 4.8,
+"amateur": false
+},
+{
+    "title": "Berserk ",
+    "family": "Manga",
+    "tags": [
+        "accion",
+        "aventura",
+        "drama",
+        "espada y brujeria",
+        "fantasia",
+        "steampunk",
+        "terror"
+    ],
+    "description": "Berserk es un caos de manga al extremo, violento, horroroso y sin piedad, y la fuente de la popular serie de anime internacional. No es para los aprensivos ni para los que se ofenden fácilmente, Berserk pide sin cuartel, ¡y no ofrece ninguno! Su nombre es Guts, el Espadachín Negro, un guerrero temido del que solo se habla en susurros. Portador de una espada gigantesca, una mano de hierro y las cicatrices de innumerables batallas y torturas, su carne también está indeleblemente marcada con La Marca, un símbolo impío que atrae las fuerzas de la oscuridad hacia él y lo condena como su sacrificio. Pero Guts no tomará su destino acostado; cortará una franja de carnicería carmesí a través de las filas de los condenados, ¡y cualquier otra persona tan tonta como para oponerse a él! Acompañado por Puck el elfo, más una molestia que un compañero, Guts sigue implacablemente un camino oscuro y ensangrentado que solo conduce a la muerte ... o la venganza.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51UtAAqHDLL._SX352_BO1,204,203,200_.jpg",
+    "finished": false,
+    "buyURL": "https://www.amazon.es/Berserk-Black-Swordsman-Kenturo-Miura/dp/1593070209/",
+    "rating": 4.8,
+"amateur": false
+},
+{
+    "title": "Pestilence",
+    "family": "Americano",
+    "tags": [
+        "accion",
+        "aventura",
+        "drama",
+        "espada y brujeria",
+        "fantasia",
+        "historico",
+        "suspense",
+        "terror",
+        "zombies"
+    ],
+    "description": "Nos encontramos a finales del siglo XIV y la Muerte Negra, una gran plaga que dejará más de veinte millones de cadáveres a su paso, está asolando Europa. Ahora bien, ¿y si la historia que conocemos no fuera cierta? ¿Y si, en realidad, no se hubiera tratado de una plaga, sino de una infección zombi? Roderick Helms, antiguo cruzado, y sus «agentes secretos» de la Iglesia, los Fiat Lux, deben dar con la causa de este brote que devuelve la vida a los muertos y extinguirlo antes de que acabe con toda la humanidad. ",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51yUWpgyyRL._SX323_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Pestilence-nº-01-historia-Independientes/dp/8491737367",
+    "rating": 2.6,
+"amateur": true
+},
+{
+    "title": "Marvel Zombies",
+    "family": "Americano",
+    "tags": [
+        "accion",
+        "aventura",
+        "drama",
+        "superheroes",
+        "fantasia",
+        "terror",
+        "zombies"
+    ],
+    "description": "¡La más brutal, desacralizadora, divertida y terrorífica versión del Universo Marvel jamás producida! Un virus convirtió a los héroes de la tierra en devoradores de carne humana. Acompaña a los muertos vivientes en los que se han transformado los iconos Marvel en su búsqueda de alimento, con un gigantesco volumen que recoge su origen, su primera aparición y la visionaria miniserie que revolucionó la industria del cómic.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/516Zy9X9q4L._SX324_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Marvel-Zombies-Hambre-Insaciable-Millar/dp/8498855152/",
+    "rating": 3.9,
+"amateur": false
+},
+{
+    "title": "The Walking Dead",
+    "family": "Americano",
+    "tags": [
+        "accion",
+        "aventura",
+        "drama","fantasia",
+        "suspense",
+        "terror",
+        "zombies"
+    ],
+    "description": "Una epidemia de proporciones apocalípticas ha barrido la Tierra haciendo que los muertos se levanten y se alimenten de los vivos. En una historia de zombies sin fin, un grupo de supervivientes intentan marcar la diferencia y, sobre todo, seguir existiendo. Este es el argumento central de la exitosa colección creada por Robert Kirkman. El autor nos ofrece un relato que nos hace refl exionar sobre el mundo en el que vivimos y en qué lo estamos convirtiendo.  En el apartado gráfico cuenta con la inestimable ayuda de Tony Moore y Charlie Adlard.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51pkyf%2BqK0L._SX324_BO1,204,203,200_.jpg",
+    "finished": false,
+    "buyURL": "https://www.amazon.es/muertos-vivientes-Edición-integral-Vivientes/dp/846840277X/",
+    "rating": 4.4,
+"amateur": false
+},
+{
+    "title": "Cómo dibujar cómics",
+    "family": "Americano",
+    "tags": [
+        "artbook",
+        "superheroes"
+    ],
+    "description": "Si te fascinan los cómics y te gusta enfrentarte a una hoja en blanco... ¡estás de suerte! Tienes en tus manos la guía ideal que te enseñará a dibujar, paso a paso, diferentes géneros del cómic: fantasía, manga, superhéroes, ciencia-ficción y terror. Además, encontrarás muchos consejos sobre los personajes, las posturas, los planos, las escenas y un sinfín de detalles con los que podrás crear un cómic a tu medida.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/61GpWvhFW3L._SX398_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Cómo-dibujar-cómics-Varios-Autores/dp/8467584718/",
+    "rating": 4.7,
+"amateur": false
+},
+{
+    "title": "Stan Lee. Cómo dibujar superhéroes",
+    "family": "Americano",
+    "tags": [
+        "artbook",
+        "superheroes"
+    ],
+    "description": "Stan Lee desvela sus trucos para crear superhéroes En este libro, Stan Lee describe en detalle todo lo que hay que saber para idear y dibujar las aventuras de tus propias creaciones de superhéroes. Los ejercicios de visualización y dibujo paso a paso te enseñan a desarrollar y plasmar un apasionante elenco de personajes con superpoderes.; desde héroes y heroínas, hasta villanos y arpías, y todo tipo de brutos, robots, monstruos, compañeros y supermascotas. ",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/61I5Qvr8UoL._SX382_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/STAN-LEE-CÓMO-DIBUJAR-SUPERHÉROES/dp/8498746035/",
+    "rating": 5,
+"amateur": false
+},
+{
+    "title": "Fruits basket",
+    "family": "Manga",
+    "tags": [
+        "cotidiano",
+        "drama",
+        "fantasia",
+        "humor",
+        "romance"
+    ],
+    "description": "Avalada por su éxito tanto en su país de origen como en los países occidentales en que ha sido publicada, llega una de las colecciones más esperadas por los fans del shojo manga y de la comedia. FRUITS BASKET narra la historia de la joven Tooru, una estudiante huérfana que vive en una tienda de campaña. El carácter fuerte y decidido de Tooru hacen que viva el día a día con resolución. El enredo arranca cuando Tooru va a vivir a casa de los Soma, una familia que sufre una curiosa maldición: ¡se transforman en los animales del Zodíaco chino!",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51tvyScjUcL._SX335_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/FRUITS-BASKET-01-CÓMIC-MANGA/dp/8496415139/",
+    "rating": 4.7,
+"amateur": false
+},
+{
+    "title": "Marmalade Boy",
+    "family": "Manga",
+    "tags": [
+        "cotidiano",
+        "drama",
+        "fantasia",
+        "humor",
+        "romance"
+    ],
+    "description": "Marmalade Boy supuso un antes y un después en el mundo del manga en España. No era el primer shojo que se editaba en nuestro país, pero la combinación de una buena historia y la emisión en televisión de su anime (titulado La familia crece) supuso el espaldarazo definitivo para que el shojo se asentara definitivamente.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51JhpK4arFL._SX348_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Marmalade-Boy-nº-01-06/dp/8467445114/",
+    "rating": 4.6,
+"amateur": false
+},
+{
+    "title": "Love Hina",
+    "family": "Manga",
+    "tags": [
+        "cotidiano",
+        "fantasia",
+        "humor",
+        "romance"
+    ],
+    "description": "Tras suspender constantemente los exámenes de acceso a la universidad, a Keitaro Urashima no le queda más remedio que irse a vivir en la posada de aguas termales que su abuela regenta. Sin embargo, al llegar, descubre que el sitio ha sido reformado y ahora es un dormitorio femenino conocido como Apartamentos Hinata. Los hombres están prohibidos y él solo puede vivir allí si se queda a trabajar en reemplazo de su abuela. Es así como Keitaro termina compartiendo sus días con un grupo de chicas que viven allí, con la más variopinta gama de personalidades extremas. Formando equipo de estudios con la fácilmente irritable Naru Narusegawa, Keitaro busca cumplir su objetivo de ingresar a la universidad por la promesa que le hizo a una niña en su infancia: “Iremos juntos a la Universidad de Tokyo”. ¿Quién será esa niña?",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51%2B6mu6NHYL._SX354_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Love-Hina-1-Edición-Deluxe/dp/8417537902/",
+    "rating": 4.6,
+"amateur": false
+},
+{
+    "title": "Pequeños instantes de amor",
+    "family": "Americano",
+    "tags": [
+        "cotidiano",
+        "fantasia",
+        "humor",
+        "romance"
+    ],
+    "description": "Pequeños instantes de amor es una dulce colección de viñetas sobre los momentos cotidianos, simples, preciosos y tontos que conforman una relación. Lo que comenzó como garabatos perdidos en trozos de papel se convirtió en una sensación de Internet cuando el novio de Catana Chetwynd compartió sus dibujos en línea. Ahora, Catana Comics conmueve a millones de lectores con su humor dulce y personal. Pequeños instantes de amor recopila precisamente eso: los pequeños momentos que muchas veces son lo mejor de estar con la persona que amas.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/41ZD0Uz3oxL._SX348_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Pequeños-instantes-amor-Catana-Chetwynd/dp/8417001603/",
+    "rating": 5,
+"amateur": false
+},
+{
+    "title": "Spider-man Noir",
+    "family": "Americano",
+    "tags": [
+        "accion",
+        "drama",
+        "fantasia",
+        "humor",
+        "misterio",
+        "noir",
+        "superheroes",
+        "suspense"
+    ],
+    "description": "En los días oscuros de la Gran Depresión, el joven reportero Peter Parker se encuentra cambiado para siempre por la mordedura de una araña, ¡y se resuelve a enfrentar el crimen y la corrupción como el vigilante urbano llamado Spider-Man! ¡Y no hay escasez de enemigos, desde los jefes de las pandillas, el Goblin y el Crime Master, hasta los giros de la era de la pulpa en rostros conocidos como Kraven, Chameleon, Doctor Octopus y más! Pero, ¿la seductora Felicia Hardy será amiga o enemiga? Además, Spider-Man Noir ingresa al Spider-Verse a través de un encuentro con Mysterio, ¡y comparte un equipo espectacular con un Spidey de seis brazos! ¡Y una nueva aventura de cómics en video, impresa por primera vez!",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/516MGipjBIL._SX328_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Spider-man-Noir-Collection-David-Hine/dp/130291958X/",
+    "rating": 4.6,
+"amateur": false
+},
+{
+    "title": "Batman: Gotham Noir",
+    "family": "Americano",
+    "tags": [
+        "accion",
+        "drama",
+        "fantasia",
+        "misterio",
+        "noir",
+        "superheroes",
+        "suspense"
+    ],
+    "description": "",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/518ZYuk2dAL._SX324_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Batman-Gotham-Noir-Ed-Brubaker/dp/8416070180/",
+    "rating": 4.4,
+"amateur": false
+},
+{
+    "title": "Dog Man",
+    "family": "Americano",
+    "tags": [
+        "humor"
+    ],
+    "description": "Con la cabeza de un perro y el cuerpo de un humano, este perro heroico cava en el engaño, araña tras ladrones, rueda sobre ladrones y persigue ardillas. ¿Podrá resistir la llamada de la naturaleza para responder a la llamada del deber? La muy popular serie de Dog Man de Dav Pilkey atrae a lectores de todas las edades y explora temas universalmente positivos, incluyendo empatía, amabilidad, persistencia, y la importancia de ser fiel a uno mismo.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51Z7gEHt-7L._SX323_BO1,204,203,200_.jpg",
+    "finished": false,
+    "buyURL": "https://www.amazon.es/Dog-Man-1/dp/1407140396/",
+    "rating": 3.4,
+"amateur": true
+},
+{
+    "title": "Akira",
+    "family": "Manga",
+    "tags": [
+        "accion",
+        "aventura",
+        "ciencia ficcion",
+        "drama",
+        "ciberpunk"
+    ],
+    "description": "En la hostil y caótica megalópolis de Neo Tokyo, Tetsuo y sus compañeros deberán averiguar el enigma de Akira, bajo el cual se esconde el más escalofriante secreto científico. La edición definitiva de una obra maestra del cómic japonés -y también mundial- que no debe faltar en la estantería de cualquier aficionado al cómic en general.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51PhfWmsbzL._SX356_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/AKIRA-CÓMIC-MANGA-Katsuhiro-Otomo/dp/8498143594/",
+    "rating": 4.9,
+"amateur": false
+},
+{
+    "title": "Ghost in the Shell",
+    "family": "Manga",
+    "tags": [
+        "accion",
+        "aventura",
+        "ciencia ficcion",
+        "drama",
+        "ciberpunk"
+    ],
+    "description": "Thriller futurista, protagonizada por Motoko Kusanagi, una cyborg medio humana, miembro de la policía tecnológica. Kusanagi con un cuerpo artificial y un cerebro mejorado por la ciencia realiza proezas sobrehumanas, necesarias en deber policial. De sobras es conocido ya Masamune Shirow, un autor que se prodiga poco, pero que, cuando lo hace, presenta obras de la calidad de Appleseed, Orion o Ghost in the Shell. En esta obra, Shirow nos deleita con sus obsesiones: las mujeres hermosas, la maquinaria, y una extraña fusión entre la genética y la robótica. Y todo ello con un trazo irrepetible. ",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51qmqp1%2BIuL._SX327_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "Ghost in the Shell",
+    "rating": 4.2,
+"amateur": false
+},
+{
+    "title": "Fullmetal Alchemist",
+    "family": "Manga",
+    "tags": [
+        "accion",
+        "aventura",
+        "belico",
+        "ciencia ficcion",
+        "drama",
+        "espada y brujeria",
+        "humor",
+        "steampunk"
+    ],
+    "description": "Cuando tan solo eran unos niños, los hermanos Edward y Alphonse Elric usaron la alquimia para cometer un pecado capital: intentar la transmutación humana. El terrible precio que tuvieron que pagar por su osadía les ha lisiado de por vida, pero no se resignan a su destino y están dispuestos a recuperar sus cuerpos. Y para ello necesitan la sustancia más especial del mundo: el quinto elemento, la piedra filosofal.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51MxzXV5B-L._SX353_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Fullmetal-alchemist-kanzenban-CÓMIC-MANGA/dp/8467913134/",
+    "rating": 4.6,
+"amateur": false
+},
+{
+    "title": "The League of Extraordinary Gentlemen",
+    "family": "Americano",
+    "tags": [
+        "accion",
+        "aventura",
+        "ciencia ficcion",
+        "drama",
+        "humor",
+        "steampunk"
+    ],
+    "description": "A medida que se acerca el siglo XX, existe la necesidad de un nuevo tipo de campeón: aventureros que no estén vinculados por la orden casta que caracteriza a la era victoriana estancada. El enigmático Campion Bond de la inteligencia británica ha comenzado una misión de reclutamiento, reuniendo una colección de individuos que pueden ser valiosos para sus superiores debido a las actividades que los han forzado más allá de los límites. Pero como Allan Quatermain, Mina Murray, el Capitán Nemo, el Dr. Henry Jekyll y Edward Hyde, y Hawley Griffin, el Hombre Invisible descubren, la Inteligencia británica tiene planes para ellos que van mucho más allá del mero espionaje. ¡Y si sobreviven a su primera prueba contra el doctor del demonio de Limehouse, tendrán que luchar contra una amenaza aún más extraña de las estrellas!",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/517UhwRZp4L._SX320_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/League-Extraordinary-Gentlemen-Jubilee-Omnibus/dp/1401289002/",
+    "rating": 4.3,
+"amateur": false
+},
+{
+    "title": "Steampunk BattleStar Galactica",
+    "family": "Americano",
+    "tags": [
+        "accion",
+        "aventura",
+        "ciencia ficcion",
+        "drama",
+        "humor",
+        "steampunk",
+        "space opera",
+        "ciberpunk"
+    ],
+    "description": "BattleStar Galactica, una de las space operas más importantes de la historia de la televisión, ya tiene su adaptación al cómic... ¡y se trata de una versión totalmente innovadora de este universo! Las fuerzas unidas del guionista Tony Lee y la ilustradora Aneke toman los diseños de personaje de Sergio Dávila y convierten el universo de la Estrella de Combate que se enfrenta a los malvados cyclones en una fantasía steampunk repleta de robots a vapor, piratas del espacio y combates a muerte.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51fkMuLCWDL._SX326_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Steampunk-BattleStar-Galactica-Tony-Lee/dp/8416428026/",
+    "rating": 4.6,
+"amateur": false
+},
+{
+    "title": "Dragonball",
+    "family": "Manga",
+    "tags": [
+        "aventura",
+        "humor",
+        "accion",
+        "fantasia"
+    ],
+    "description": "Su trama describe las aventuras de Gokū, un guerrero saiyajin, cuyo fin es proteger a la Tierra de otros seres que quieren conquistarla y exterminar a la humanidad. Conforme transcurre la trama, conoce a otros personajes que le ayudan en este propósito. El nombre de la serie proviene de unas esferas mágicas que al ser reunidas invocan a un dragón que concede deseos. En varias ocasiones resultan útiles tanto para Gokū y sus amigos como para la humanidad, aunque también son procuradas de forma constante por algunos seres malignos.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51oRjO25MTL._SX345_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Dragon-Ball-n%C2%BA-Manga-Shonen/dp/8468470341/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=dragon+ball+comic&qid=1561806292&s=gateway&sr=8-1",
+    "rating": 5,
+"amateur": false
+},
+{
+    "title": "Deadpool",
+    "family": "Americano",
+    "tags": [
+        "accion",
+        "humor",
+        "ciencia ficcion",
+        "superheroes"
+    ],
+    "description": "Landau, Luckman y Lake quieren que Masacre se reconvierta para ser un auténtico héroe, pero el camino que deberá emprender Wade Wilson no es fácil, y en él encontrará las más inesperadas situaciones: un encuentro con el Increíble Hulk, un viaje en el tiempo hasta los comienzos en la carrera de Spiderman, el enfrentamiento con Daredevil o la convivencia con una misteriosa mujer ciega. Nunca Masacre fue tan brillante, divertido e incluso profundo como cuando estuvo en manos de Joe Kelly.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51ppYUxTDRL._SX330_BO1,204,203,200_.jpg",
+    "finished": false,
+    "buyURL": "https://www.amazon.es/Masacre-Joe-Kelly/dp/8490945039/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=deadpool+comic&qid=1561806379&s=gateway&sr=8-1",
+    "rating": 4.8,
+"amateur": false
+},
+{
+    "title": "Capitán América. El Soldado De Invierno",
+    "family": "Americano",
+    "tags": [
+        "aventura",
+        "accion",
+        "superheroes",
+        "belico"
+    ],
+    "description": "Durante más de cincuenta años, la Unión Soviética tuvo un agentes encubierto... un indetectable asesino conocido como El Soldado de Invierno. Ahora, ha vuelto, trabajando a las órdenes del General Lukin, que ha conseguido hacerse con un Cubo Cósmico arrebatado a Cráneo Rojo. El Capitán América ha jurado acabar con Lukin, pero en el camino se verá enfrentado contra El Soldado de Invierno, cuya verdadera identidad esconde el mayor secreto del Universo Marvel en más de medio siglo...",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51mrjJObttL._SX324_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Capit%C3%A1n-Am%C3%A9rica-Soldado-Invierno-Integral/dp/8490247404/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=capitan+america+comic&qid=1561806603&s=gateway&sr=8-1",
+    "rating": 3.2,
+"amateur": false
+},
+{
+    "title": "Lanfeust de Troy",
+    "family": "Europeo",
+    "tags": [
+        "aventura",
+        "humor",
+        "espada y brujeria",
+        "fantasia",
+        "romance"
+    ],
+    "description": "En Troy, un mundo donde cada habitante posee un poder distinto, Lanfeust, un aprendiz de herrero, tiene la habilidad de fundir los metales. Su vida es tranquila y apacible hasta que un día, al entrar en contacto con una espada... ¡descubre que tiene acceso a un poder absoluto! Acompañado del viejo sabio Nicolede y de sus dos hijas, Cyan y Cixi, Lanfeust traba amistad con la criatura más peligrosa del planeta, el troll Hebus, y juntos se verán en un sinfín de aventuras por todos los rincones de Troy. Lanfeust de Troy es la serie con la que Arleston y Tarquin dieron origen a una de las sagas de fantasía de mayor éxito en la historia del cómic franco belga, en la que los clichés del género se ven actualizados gracias a una equilibrada combinación de acción y humor.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51L2h8EKe4L._SX362_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Lanfeust-Troy-Volumen-Scotch-Arleston/dp/8416428891/ref=sr_1_2?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3LAHQKD41ELKI&keywords=lanfeust+de+troy&qid=1561806742&s=gateway&sprefix=lanfeust+%2Caps%2C317&sr=8-2",
+    "rating": 4.8,
+"amateur": false
+},
+{
+    "title": "Aldebarán",
+    "family": "Europeo",
+    "tags": [
+        "aventura",
+        "fantasia",
+        "ciencia ficcion"
+    ],
+    "description": "A fines del siglo XXII, la Tierra ha fundado varias colonias en el espacio. La primera fue Aldebarán-4, misteriosamente aislada durante 100 años. La acción arranca en un pueblecito costero de Aldebarán donde empiezan a ocurrir sucesos inexplicables. Los jóvenes Marc Sorensen y Kim Keller buscan respuestas en un viaje que los llevará mucho más lejos de lo que habían imaginado. ",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51L36gueHJL._SX349_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Aldebar%C3%A1n-Leo/dp/8417147233/ref=pd_sim_14_6/258-4983579-0431958?_encoding=UTF8&pd_rd_i=8417147233&pd_rd_r=c752661b-9a5e-11e9-94c1-e74c64e5ee94&pd_rd_w=s2Ly7&pd_rd_wg=TmMox&pf_rd_p=7cb3e23e-064d-4c10-b8ca-d3e14b48695e&pf_rd_r=PN4NFBM1FEWEB4QTDVEF&psc=1&refRID=PN4NFBM1FEWEB4QTDVEF",
+    "rating": 4,
+"amateur": false
+},
+{
+    "title": "Djinn",
+    "family": "Europeo",
+    "tags": [
+        "aventura",
+        "drama",
+        "espada y brujeria",
+        "fantasia"
+    ],
+    "description": " Kim antes de su periplo por África y su búsqueda de la perla negra, Kim en Calcuta y en el palacio de su Alteza la Rani de Eschnapur. Los tres ciclos de esta gran serie se cierran en un broche fascinante: los dos tiempos se mezclan al son de las campanas del deseo. ¿Recorrerá la sangre de los Djinns las venas de Kim Nelson? Jean Dufaux (Barracuda, Conquistador) y Ana Miralles cierran con este último volumen una de las sagas más exitosas del cómic europeo.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/61oyekAutAL._SX368_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/CEC-276-Djinn-Miralles-Dufaux/dp/8467926821/ref=pd_sim_14_16?_encoding=UTF8&pd_rd_i=8467926821&pd_rd_r=05fdf1e4-9a5f-11e9-8a1a-d7fd9e3cbef2&pd_rd_w=W4NaN&pd_rd_wg=bqKEt&pf_rd_p=7cb3e23e-064d-4c10-b8ca-d3e14b48695e&pf_rd_r=EVBVS4G56XKY5SE89JWV&psc=1&refRID=EVBVS4G56XKY5SE89JWV",
+    "rating": 2.9,
+"amateur": false
+},
+{
+    "title": "Lo que más me gusta son los monstruos",
+    "family": "Americano",
+    "tags": [
+        "ciencia ficcion",
+        "novela grafica",
+        "drama",
+        "historico",
+        "terror"
+    ],
+    "description": "Esta es la historia de Karen Reyes, una peculiar niña de diez años que vive en la oscura Chicago de finales de los sesenta. Lleva un diario gráfico que refleja su pasión por las películas de terror de serie B y la iconografía de las revistas pulp de monstruos. Se retrata a sí misma como una niña-lobo vestida de detective y, como tal, se propone un día resolver el misterio que rodea el asesinato de su bella y enigmática vecina del piso de arriba, Anka Silverberg, una superviviente del Holocausto.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/61Lsz0OA0sL._SX380_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Aldebar%C3%A1n-Leo/dp/8417147233/ref=pd_sim_14_6/258-4983579-0431958?_encoding=UTF8&pd_rd_i=8417147233&pd_rd_r=c752661b-9a5e-11e9-94c1-e74c64e5ee94&pd_rd_w=s2Ly7&pd_rd_wg=TmMox&pf_rd_p=7cb3e23e-064d-4c10-b8ca-d3e14b48695e&pf_rd_r=PN4NFBM1FEWEB4QTDVEF&psc=1&refRID=PN4NFBM1FEWEB4QTDVEF",
+    "rating": 4.3,
+"amateur": false
+},
+{
+    "title": "One Piece",
+    "family": "Manga",
+    "tags": [
+        "aventura",
+        "humor",
+        "accion",
+        "fantasia"
+    ],
+    "description": "Sigue las aventuras de Monkey D. Luffy, un chico muy especial y elástico, que sueña con ser el rey de los piratas y encontrar una gran tesoro: el One Piece. Para ello, se hace a la mar en un bote con el que buscará la tripulación que le pueda ayudar en su misión.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51nzexnBtLL._SX311_BO1,204,203,200_.jpg",
+    "finished": false,
+    "buyURL": "https://www.amazon.es/One-Piece-n%C2%BA-01-Amanecer/dp/8468471526/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=one+piece+comic&qid=1561807249&s=books&sr=1-1",
+    "rating": 4,
+"amateur": false
+},
+{
+    "title": "Death Note",
+    "family": "Manga",
+    "tags": [
+        "misterio",
+        "ciencia ficcion",
+        "drama",
+        "fantasia",
+        "suspense"
+    ],
+    "description": "Death Note supuso toda una revolución en el manga: el protagonista, tras encontrar un objeto mágico de inmenso poder, lo utiliza no para hacer el bien… sino para convertirse en el gobernante supremo del mundo. Esta historia atípica, un verdadero thriller en viñetas, es un clásico moderno del manga, y como tal, ¡merece una edición a su altura! De los autores de BAKUMAN. Consigue la serie completa de esta nueva edición en 6 volúmenes.",
+    "imageURL": "https://images-na.ssl-images-amazon.com/images/I/51Ercmv4QKL._SX343_BO1,204,203,200_.jpg",
+    "finished": true,
+    "buyURL": "https://www.amazon.es/Death-Note-C%C3%93MIC-MANGA-Tsugumi/dp/846791209X/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=death+note+comic&qid=1561807388&s=books&sr=1-1",
+    "rating": 4.4,
+"amateur": false
+}]
